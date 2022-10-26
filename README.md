@@ -22,3 +22,5 @@ Kemudian langkah-langkah algoritma bolzano sebagai berikut :
 8. Menggambar grafik dengan menggunakan plot dengan memasukkan xlist dan ylist.
 9. Menggeser garis sumbu x ke tengah dan memberi judul.
 10. Menampilkan grafik fungsi
+
+![test](https://user-images.githubusercontent.com/91377793/198072182-d6491cf2-d054-421b-b1d3-35b28b233006.jpeg)
