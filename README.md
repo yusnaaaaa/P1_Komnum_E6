@@ -1,5 +1,7 @@
 # P1_Komnum_E6
 
+Praktikum 1 Komputasi Numerik : Metode Bolzano 
+
 # Kelompok 6
 Nama Kelompok :
 - Muhammad Adib Syambudi (5025211017)
